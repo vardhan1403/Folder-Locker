@@ -1,0 +1,9 @@
+dist/
+build/
+src1/
+src2/
+applet.policy
+lib/Mandelbrot.jar
+mandel.zip
+data/*/.lock
+
